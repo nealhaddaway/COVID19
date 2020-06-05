@@ -1,1 +1,2 @@
-These files contain data and code for a histogram of COVID research found on 7th April 2020 in PUBMED (all field search for "COVID").
+Files used to create Figure 1:
+Figure 1. Proliferation of publications on COVID-19 found in Pubmed on 5th June 2020 with creation dates in 2020 [corresponding to week 23] (all fields search for ("COVID-19" OR "nCoV" OR "2019 novel coronavirus" OR "2019-nCoV" OR "SARS-CoV-2") AND research). A totla of 19,260 hits identified. Data and code freely accessible from https://github.com/nealhaddaway/COVID19/. Week of 2020 calculated based on Pubmed creation date. Records lacking creation date were excluded.
